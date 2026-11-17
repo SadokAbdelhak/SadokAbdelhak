@@ -17,13 +17,6 @@ I'm a third-year CS student finishing my bachelor's degree 🎓. I'm exploring d
 
 Python 🐍 · HTML 🌐 · CSS 🎨 · JavaScript ⚡
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SadokAbdelhak&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadokAbdelhak&layout=compact&theme=default&hide_border=true" />
-</p>
-
 ## 🎲 Beyond code
 
 - 🏎️ Formula 1 fan (Mercedes, George Russell)
